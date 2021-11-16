@@ -1,0 +1,14 @@
+{
+"companyName": "those.developers",
+"productName": "Bitcoin Charts",
+"dataUrl": "Bitcoin Charts WebGL.data.unityweb",
+"asmCodeUrl": "Bitcoin Charts WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Bitcoin Charts WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Bitcoin Charts WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Bitcoin Charts WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
