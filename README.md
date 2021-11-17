@@ -15,12 +15,7 @@ This was the first project I ever created with no tutorials - just a buddy and m
 
 * The program was originally created for Android devices, but was later ported to a pc version as well as a port to webGL, which enabled us to play it in browsers. 
 
-## Getting started
-
-	
-## Technologies
-This project was created with standard frontend technology with some JavaScript libraries and a weather API
-
-Project is created with:
+## Project is created with:
 * Unity 2018
 * Android Studio
+* WebGL
