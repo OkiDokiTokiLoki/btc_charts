@@ -16,6 +16,7 @@ This was the first project I ever created with no tutorials - just a buddy and m
 * The program was originally created for Android devices, but was later ported to a pc version as well as a port to webGL, which enabled us to play it in browsers. 
 
 ## Project is created with:
+* C#
 * Unity 2018 (game engine)
 * Android Studio (mobile version)
 * WebGL (browser version)
